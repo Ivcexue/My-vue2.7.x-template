@@ -1,5 +1,6 @@
-# 财务管理平台-Admin
+# Vue2.7.x-Admin-Template
 
+A vue2.7.x admin template with Element UI & JSX & axios & iconfont & permission control & lint
 
 ## 安装依赖
 **所有依赖统一使用 `npm` 安装**
